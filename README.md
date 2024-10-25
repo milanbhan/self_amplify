@@ -1,7 +1,7 @@
 # self_amplify
 This is the code implementation for our paper presented at EMNLP 2024:
 
-Link to the sample section: [Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations](https://arxiv.org/abs/2402.12038)
+[Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations](https://arxiv.org/abs/2402.12038)
 
 ## Citation
 ```
