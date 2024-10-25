@@ -5,7 +5,7 @@ Link to the sample section: [Self-AMPLIFY: Improving Small Language Models with 
 
 ## Citation
 ```
-@inproceedings{Ross2020ExplainingNM,
+@inproceedings{self_amplify_bhan,
     title = "Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations",
     author = "Bhan, Milan  and Vittaut, Jean-Noel and Chesneau, Nicolas and Lesot, Marie-Jeanne",
     booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
